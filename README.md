@@ -1,13 +1,5 @@
 # End-to-End Machine Learning using AWS SageMaker Course
 
-Welcome to the AWS SageMaker End-to-End Machine Learning Course conducted in partnership with CampusX! 🚀
-
-This comprehensive course is designed to take you through the entire workflow of implementing a machine learning project using AWS SageMaker. Whether you're a beginner or an experienced practitioner, these 6 sessions will provide you with theoretical and practical knowledge as well as hands-on experience to build, deploy, and manage machine learning models on the cloud.
-
-## Relevant Links
-- [Course](https://learnwith.campusx.in/courses/Flight-Price-Prediction-using-AWS-Sagemaker-660db0499ecb7050edff6e77)
-- [Web Application](https://sagemaker-flight-prices-prediction-5yfn7cnnpxta2k23jvf4ic.streamlit.app/)
-- [Course Instructor](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
 
 ## Course Overview
 
@@ -49,12 +41,6 @@ This comprehensive course is designed to take you through the entire workflow of
 
 ## Getting Started
 
-To get started with the course, simply clone this repository and follow along with the course sessions and materials provided in each session's directory.
 
-```bash
-git clone https://github.com/MisbahullahSheriff/sagemaker-flight-prices-prediction.git
-```
 
-Happy learning! 🌟
-<br>
-Hope you enjoy the course 😊
+
